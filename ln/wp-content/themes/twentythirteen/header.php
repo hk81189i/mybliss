@@ -5,8 +5,8 @@
  * Displays all of the <head> section and everything up till <div id="main">
  *
  * @package WordPress
- * @subpackage Twenty_Thirteen
- * @since Twenty Thirteen 1.0
+ * @subpackage Twenty_Test
+ * @since Twenty Test 0.2
  */
 ?><!DOCTYPE html>
 <!--[if IE 7]>
@@ -19,33 +19,44 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
+<!DOCTYPE html>
+<html lang="en">
+
+</head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
-	<title><?php wp_title( '|', true, 'right' ); ?></title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/normalize.css">
+<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>">
+<link href="<?php echo get_template_directory_uri(); ?>/css/flexslider.css" rel="stylesheet" type="text/css" />
+<link href="<?php echo get_template_directory_uri(); ?>/css/grid.css" rel="stylesheet" type="text/css" />
+<link href="<?php echo get_template_directory_uri(); ?>/css/testi-slider.css" rel="stylesheet" type="text/css" />
+<link href="<?php echo get_template_directory_uri(); ?>/css/button.css" rel="stylesheet" type="text/css" />
+<script src="<?php bloginfo( 'template_url' ); ?>/js/modernizr.custom.js"></script>
+<script src="<?php bloginfo( 'template_url' ); ?>/js/classie.js"></script>
+
+	
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
+
+<div class="container1 clearfix">
+<div class="logo"><img src="images/logo.svg" alt="nlpbliss"></div>
+<div class="mdl">
+<ul>
+<li><a href="#">What is NLPBliss?</a></li>
+<li><a href="#">What is NLPBliss?</a></li>
+<li><a href="#">What is NLPBliss?</a></li>
+</ul>
+
+</div><!-- mdl -->
+<div class="tollfree"><h3><span>Request a Session</span>Call - 1800 000 000</h3></div>
+
+</div><!-- container -->
 </head>
-
-<body <?php body_class(); ?>>
-	<div id="page" class="hfeed site">
-		<header id="masthead" class="site-header" role="banner">
-			<a class="home-link" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
-				<h1 class="site-title"><?php bloginfo( 'name' ); ?></h1>
-				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
-			</a>
-
-			<div id="navbar" class="navbar">
-				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
-					<h3 class="menu-toggle"><?php _e( 'Menu', 'twentythirteen' ); ?></h3>
-					<a class="screen-reader-text skip-link" href="#content" title="<?php esc_attr_e( 'Skip to content', 'twentythirteen' ); ?>"><?php _e( 'Skip to content', 'twentythirteen' ); ?></a>
-					<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'nav-menu' ) ); ?>
-					<?php get_search_form(); ?>
-				</nav><!-- #site-navigation -->
-			</div><!-- #navbar -->
-		</header><!-- #masthead -->
-
-		<div id="main" class="site-main">
+<body>
+<div id="wrapper">
+<div id="container">
