@@ -1,0 +1,79 @@
+<?php
+/**
+ * The template for displaying the footer
+ *
+ * Contains footer content and the closing of the #main and #page div elements.
+ *
+ * @package WordPress
+ * @subpackage Twenty_Fourteen
+ * @since Twenty Fourteen 1.0
+ */
+?>
+
+
+<section class="footer clearfix">
+<div class="container clearfix">
+
+
+<div class="footerbox">
+
+<h3>Company Info</h3>
+
+<ul>
+<li><a href="#">About Us</a></li>
+<li><a href="#">NLP Bliss Practitioners</a></li>
+<li><a href="#">Privacy Policy</a></li>
+<li><a href="#">Contact & Support</a></li>
+</ul>
+
+</div><!-- footerbox -->
+
+<div class="footerbox">
+
+<h3>Resources</h3>
+
+<ul>
+<li><a href="#">What is NLP?</a></li>
+<li><a href="#">How it Works</a></li>
+<li><a href="#">FAQ</a></li>
+</ul>
+
+</div><!-- footerbox -->
+
+<div class="footerbox">
+
+<h3>Find the Right Services for you</h3>
+
+<ul>
+<li><a href="#">Categorized as 'Get Over'</a></li>
+<li><a href="#">Categorized as 'Go Towards'</a></li>
+</ul>
+
+</div><!-- footerbox -->
+
+<div class="footerbox">
+
+<h3>Subscribe to Expert NLP & Excellence Articles</h3>
+
+<form class="contact_form" action="" method="" name="contact_form">
+    <ul>
+        <li>
+            <input type="email" name="email" placeholder="Enter your Email" required />
+        </li>
+      
+        <li>
+        	<button class="submit" type="submit">Subscribe</button>
+        </li>
+    </ul>
+</form>
+
+</div><!-- footerbox -->
+
+
+
+</div><!-- container -->
+</section>
+
+	<?php wp_footer(); ?>
+</body>
+</html>
