@@ -1,6 +1,6 @@
 .sl-slider-wrapper {
 	width: 90%;
-	height: 290px;
+	height: 360px;
 	margin: 0 auto;
 	position: relative;
 	overflow: hidden;
@@ -121,7 +121,7 @@
 .demo-1 .sl-slider-wrapper {
 	position: absolute;
 	width: 100%;
-	height: 290px;
+	height: 340px;
 	top: 0;
 	left: 0;
 }
@@ -134,8 +134,7 @@
 	top: 50%;
 	width: 40px;
 	height: 40px;
-	border: 2px solid #fff;
-	border: 2px solid rgba(255,255,255,0.4);
+	border: 2px solid #c5c5c5;
 	text-indent: -90000px;
 	margin-top: -40px;
 	cursor: pointer;
@@ -148,7 +147,7 @@
 }
 
 .nav-arrows span:hover {
-	border-color: rgba(255,255,255,0.9);
+	border-color: #bbb;
 }
 
 .nav-arrows span.nav-arrow-prev {
@@ -172,7 +171,7 @@
 	width: 100%;
 	left: 0;
 	z-index: 1000;
-	background:#f1f1f1;
+	background:#e9e9e9;
 	padding:8px 0;
 	
 }
@@ -205,14 +204,14 @@
 /* Content elements */
 
 .demo-1 .deco {
-	width: 120px;
-	height: 120px;
+	width: 100px;
+	height: 100px;
 	border-radius: 50%;
 	position: absolute;
-	border:4px solid rgba(255,255,255,0.3);
+	border:4px solid rgba(0,0,0,0.1);
 	top: 0%;
 	left: 50%;
-	margin: 20px 0 0 -60px;
+	margin: 20px 0 0 -50px;
 }
 
 .demo-1 .sl-slide h2 {
@@ -238,13 +237,13 @@
 	text-align: center;
 	left: 0;
 	font-weight: 300;
-	font-size: 16px;
-	line-height: 20px;
+	font-size: 1.3em;
+	line-height: 30px;
 	height: 70px;
-	color: #fff;
+	color: #666;
 	z-index: 2;
 	bottom: 50%;
-	margin: 0 0 -85px 0;
+	margin: 0 0 -65px 0;
 	padding: 0;
 }
 
@@ -256,16 +255,16 @@
 }
 
 .demo-1 .sl-slide blockquote p:before {
-	color: #fff;
+	color: #888;
 	font-family: "Bookman Old Style", Bookman, Garamond, serif;
 	position: absolute;
 	line-height: 60px;
-	width: 75px;
-	height: 75px;
+	width: 60px;
+	height: 60px;
 	font-size: 100px;
 	z-index: -1;
 	left: 50%;
-	margin-left:-37px;
+	margin-left:-30px;
 	top:-28px;
 	content: '\201C';
 }
@@ -277,7 +276,7 @@
 	font-style: normal;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	border-top:1px solid rgba(255,255,255,0.3);
+	border-top:1px solid rgba(0,0,0,0.2);
 }
 
 /* Custom background colors for slides in first demo */
@@ -285,20 +284,20 @@
 /* First Slide */
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
-	background: #ec87c0;
+	background: #f1f1f1;
 }
 
 /* Second Slide */
 .demo-1 .bg-2 .sl-slide-inner,
 .demo-1 .bg-2 .sl-content-slice {
-	background: #48cfad;
+	background: #f1f1f1;
 }
 
 
 /* Third Slide */
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
-	background: #ffce54;
+	background: #f1f1f1;
 }
 
 /* Forth Slide */
@@ -317,11 +316,11 @@
 /* Animations for content elements */
 
 .sl-trans-elems .deco{
-	-webkit-animation: roll 1s ease-out both, fadeIn 1s ease-out both;
-	-moz-animation: roll 1s ease-out both, fadeIn 1s ease-out both;
-	-o-animation: roll 1s ease-out both, fadeIn 1s ease-out both;
-	-ms-animation: roll 1s ease-out both, fadeIn 1s ease-out both;
-	animation: roll 1s ease-out both, fadeIn 1s ease-out both;
+	-webkit-animation:  fadeIn 1s ease-out both;
+	-moz-animation: fadeIn 1s ease-out both;
+	-o-animation: fadeIn 1s ease-out both;
+	-ms-animation: fadeIn 1s ease-out both;
+	animation: fadeIn 1s ease-out both;
 }
 .sl-trans-elems h2{
 	-webkit-animation: moveUp 1s ease-in-out both;

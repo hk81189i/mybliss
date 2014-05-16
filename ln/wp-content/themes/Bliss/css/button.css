@@ -203,6 +203,7 @@
 	position: relative;
 	display: block;
 	margin: 0 auto;
+	z-index:9999999999999999;
 }
 
 .morph-button > button {
@@ -216,6 +217,22 @@
 	font-weight: 700;
 	line-height: 60px;
 	overflow: hidden;
+	border-radius:3px;
+}
+
+
+.grid .morph-button > button {
+	position: relative;
+	padding: 0 1em;
+	border: none;
+	background-color: #fff;
+	color: #9cbf3d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	line-height: 36px;
+	overflow: hidden;
+	border-radius:3px;
 }
 
 .morph-button.open > button {
@@ -236,6 +253,13 @@
 	width: 220px;
 	height: 60px;
 }
+
+.grid .morph-button-fixed,
+.grid .morph-button-fixed .morph-content {
+	width: 180px;
+	height: 36px;
+}
+
 
 .morph-button-fixed > button {
 	z-index: 1000;
@@ -697,11 +721,12 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: 'icomoon';
-	src:url('../fonts/icomoon/icomoon.eot?i64fx9');
-	src:url('../fonts/icomoon/icomoon.eot?#iefixi64fx9') format('embedded-opentype'),
-		url('../fonts/icomoon/icomoon.woff?i64fx9') format('woff'),
-		url('../fonts/icomoon/icomoon.ttf?i64fx9') format('truetype'),
-		url('../fonts/icomoon/icomoon.svg?i64fx9#icomoon') format('svg');
+	src:url('../fonts/close/icomoon.eot?i64fx9');
+	src:url('../fonts/close/icomoon.eot?#iefixi64fx9') format('embedded-opentype'),
+		url('../fonts/close/icomoon.woff?i64fx9') format('woff'),
+		url('../fonts/close/icomoon.ttf?i64fx9') format('truetype'),
+		url('../fonts/close/icomoon.svg?i64fx9#icomoon') format('svg');
+		
 }
 
 .icon-close {
