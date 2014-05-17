@@ -35,21 +35,20 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/classie.js"></script> 
     
     
-
+<header>
 	<div class="container1 clearfix">
 <div class="logo">
 <img src="<?php bloginfo('template_directory'); ?>/images/logo.svg" /></div>
 <div class="mdl">
 <ul>
-<li><a href="#">What is NLPBliss?</a></li>
-<li><a href="#">How do I get transformed?</a></li>
-<li><a href="#">What is NLPBliss?</a></li>
+<li><a href="#">How it works</a></li>
 </ul>
 
 </div><!-- mdl -->
-<div class="tollfree"><h3><span>Request a Session</span>Call - 1800 000 000</h3></div>
+<div class="tollfree"><h3><span>Book a Session</span>Call - +91 9884 235 428</h3></div>
 
 </div><!-- container -->
+</header>
 	
 	<!--[if lt IE 9]>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>

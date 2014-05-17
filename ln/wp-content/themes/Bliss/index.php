@@ -70,16 +70,16 @@ get_header(); ?>
 <div class="lftmnu clearfix">
 
 <ul>
-<li><a href="<?php echo get_page_link(39); ?>">Get the Life you want</a></li>
-<li><a href="#">Loss Weight & get Fit</a></li>
-<li><a href="#">Get Rid of Bad Memories</a></li>
-<li><a href="#">Get Rid of Phobias</a></li>
-<li><a href="#">STOP Procastinating START Doing</a></li>
-<li><a href="#">Program yourself for Excellence</a></li>
-<li><a href="#">Get Peak Performance</a></li>
-<li><a href="#">Discover your true potential</a></li>
-<li><a href="#">Master your Emotions</a></li>
-<li><a href="#">Quit Smoking / other habits</a></li>
+<li><a href="<?php echo get_page_link(6); ?>">Get the Life you want</a></li>
+<li><a href="<?php echo get_page_link(9); ?>">Loss Weight & get Fit</a></li>
+<li><a href="<?php echo get_page_link(11); ?>">Get Rid of Bad Memories</a></li>
+<li><a href="<?php echo get_page_link(14); ?>">Get Rid of Phobias</a></li>
+<li><a href="<?php echo get_page_link(16); ?>">STOP Procrastinating START Doing</a></li>
+<li><a href="<?php echo get_page_link(39); ?>">Program yourself for Excellence</a></li>
+<li><a href="<?php echo get_page_link(39); ?>">Get Peak Performance</a></li>
+<li><a href="<?php echo get_page_link(39); ?>">Discover your true potential</a></li>
+<li><a href="<?php echo get_page_link(39); ?>">Master your Emotions</a></li>
+<li><a href="<?php echo get_page_link(39); ?>">Quit Smoking / other habits</a></li>
 </ul>
 
 </div><!-- lftmnu -->

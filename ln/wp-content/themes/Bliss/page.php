@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * The template for displaying all pages
@@ -11,14 +13,15 @@
  * @since Bliss 0.1
  */
 
+
 get_header(); ?>
 	
-
+<body class="bg">
 			<?php while ( have_posts() ) : the_post(); ?>
 				<?php get_template_part( 'content', 'page' ); ?>
 
 				
 			<?php endwhile; // end of the loop. ?>
 
-		
+</body>		
 <?php get_footer();
