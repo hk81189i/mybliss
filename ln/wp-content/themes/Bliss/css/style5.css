@@ -1,0 +1,246 @@
+/* Overlay style */
+.overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index:999999999999;
+}
+
+/* Overlay closing cross */
+.overlay .overlay-close {
+	width: 26px;
+	height: 26px;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	overflow: hidden;
+	border: none;
+	background: url(../images/cross.png) no-repeat center center;
+	text-indent: 200%;
+	color: transparent;
+	outline: none;
+	z-index: 100;
+	opacity:0.2;
+}
+
+/* Menu style */
+.overlay nav {
+	text-align: center;
+	position: relative;
+	top: 50%;
+	height: 60%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.overlay ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block;
+	height: 100%;
+	position: relative;
+}
+
+.overlay ul li {
+	display: block;
+	height: 20%;
+	height: calc(100% / 5);
+	min-height: 54px;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.overlay ul li a {
+	font-size: 54px;
+	font-weight: 300;
+	display: block;
+	color: #fff;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+}
+
+.overlay ul li a:hover,
+.overlay ul li a:focus {
+	color: #f0f0f0;
+}
+
+/* Effects */
+.overlay-scale {
+	visibility: hidden;
+	opacity: 0;
+	-webkit-transform: scale(0.9);
+	transform: scale(0.9);
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s, visibility 0s 0.2s;
+	transition: transform 0.2s, opacity 0.2s, visibility 0s 0.2s;
+}
+
+.overlay-scale.open {
+	visibility: visible;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);	
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.4s;
+	transition: transform 0.4s, opacity 0.4s;
+}
+
+@media screen and (max-height: 30.5em) {
+	.overlay nav {
+		height: 70%;
+		font-size: 34px;
+	}
+	.overlay ul li {
+		min-height: 34px;
+	}
+}
+
+/* Style for form modal */
+.enquiery-form {
+	position: relative;
+	text-align: left;
+	width:400px;
+	margin:0 auto;
+	background:#FFF;
+	margin-top:30px;
+	}
+
+.enquiery-form h2 {
+	margin: 0;
+	padding: 0.4em 0 0.3em;
+	text-align: center;
+	font-weight: 300;
+	font-size: 2.5em;
+	color:#555;
+}
+
+.enquiery-form h2 span{display:block; font-size:14px; margin-top:10px; text-align:left; padding-left:30px;}
+
+.enquiery-form form {
+	padding: 10px 30px;
+}
+
+.enquiery-form form p {
+	margin: 0 0 5px 0;
+	font-size: 0.7em;
+}
+
+.enquiery-form label {
+	display: block;
+	padding: 10px 0 0;
+	color: #999;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: bold;
+	padding-bottom:3px;
+}
+
+.enquiery-form input[type="text"],
+.enquiery-form textarea[type="text"] {
+	padding: 10px;
+	width: 100%;
+	border:1px solid #ccc;
+	background: transparent;
+	color: #b09a86;
+	font-weight: 300;
+	font-size: 1.8em;
+}
+
+.enquiery-form textarea{
+	padding: 10px;
+	width: 100%;
+	border: 1px solid #ccc;
+	background: transparent;
+	color: #b09a86;
+	font-weight: 300;
+	font-size: 1.8em;
+}
+
+.enquiery-form select{
+	padding: 10px;
+	width: 100%;
+	border: 1px solid #ccc;
+	background: transparent;
+	color: #b09a86;
+	font-weight: 300;
+	font-size: 1.8em;
+}
+
+.enquiery-form input[type="text"]:focus,
+.enquiery-form textarea[type="text"]:focus {
+	border-color: #e75854;
+	color: #e75854;
+}
+
+.enquiery-form input:focus {
+	outline: 0;
+}
+
+.enquiery-form button {
+	display: block;
+	margin-top: 2.5em;
+	padding: 1.5em;
+	width: 100%;
+	border: none;
+	background: #00a88e;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	font-size: 1.25em;
+	border-radius:3px;
+}
+
+.enbtn{position: relative;
+	padding: 0.6em 2em;
+	border: none;
+	background-color: #9cbf3d;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	line-height: 36px;
+	overflow: hidden;
+	border-radius:3px;
+}
+
+.gnbtn{position: relative;
+	padding:0em 1em;
+	border: none;
+	background-color: #fff;
+	color: #9cbf3d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	line-height: 36px;
+	overflow: hidden;
+	border-radius:3px;
+	margin-top:10px;
+	font-size:12px;
+}
+
+.bbtn{background-color:#f14e23;
+    width:200px;
+    display:inline-block;
+    font-size:16px;
+    text-decoration:none;
+    color:#fff;
+	text-transform:uppercase;
+    position:relative;
+    margin-top:12px;
+    padding-bottom:0px;
+    padding-top:0px;
+    background-image: linear-gradient(bottom, rgb(168,48,232) 100%, rgb(141,32,196) 0%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: inset 0px 1px 0px #ff5629, 0px 3px 0px 0px #a83618, 0px 5px 5px #999;
+	cursor: pointer;
+	-webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;}
