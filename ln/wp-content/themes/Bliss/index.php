@@ -21,7 +21,16 @@ get_header(); ?>
 
 
 <body>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+							       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+														  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+ga('create', 'UA-51304817-1', 'nlpbliss.com');
+ga('send', 'pageview');
+
+</script>
 
 <div class="bannersection clearfix">
 <?php echo do_shortcode('[formlightbox_obj id="desirechange" style="" onload="false"][contact-form-7 id="225" title="Book a Session - Overlay"][/formlightbox_obj]') ?>
@@ -153,7 +162,7 @@ get_header(); ?>
 
 <li><a href="#">Get Rid of Bad Memories</a></li>
 
-<li><a href="<?php echo get_page_link(14); ?>">Get Rid of Phobias</a></li>
+<li><a href="<?php echo get_page_link(14); ?>">Get Rid of FEAR & Phobias</a></li>
 
 <li><a href="http://www.nlpbliss.com/stop-procastinating-start-doing/">STOP Procastinating START Doing</a></li>
 
@@ -1107,7 +1116,6 @@ bttn.addEventListener( 'click', function( ev ) { ev.preventDefault(); } );
 })();
 
 </script> -->
-
 
 
 

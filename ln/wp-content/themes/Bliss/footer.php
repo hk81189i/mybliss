@@ -78,13 +78,13 @@
 
 <div class="footerbox">
 <ul>
-<li><a href="http://www.nlpbliss.com/about-us/">About Us</a></li>
-<li><a href="http://www.nlpbliss.com/nlp-bliss-practitioners-2/">NLP Bliss Practitioners</a></li>
-<li><a href="http://www.nlpbliss.com/privacy-policy/">Privacy Policy</a></li>
-<li><a href="http://www.nlpbliss.com/contact-us/">Contact & Support</a></li>
-<li><a href="http://www.nlpbliss.com/what-is-nlp/">What is NLP?</a></li>
-<li><a href="http://www.nlpbliss.com/how-it-works/">How it Works</a></li>
-<li><a href="http://www.nlpbliss.com/faq/">FAQ</a></li>
+<li><a href="http://www.nlpbliss.com/about-us/" target="_blank">About Us</a></li>
+<li><a href="http://www.nlpbliss.com/nlp-bliss-practitioners-2/" target="_blank">NLP Bliss Practitioners</a></li>
+<li><a href="http://www.nlpbliss.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+<li><a href="http://www.nlpbliss.com/contact-us/" target="_blank">Contact & Support</a></li>
+<li><a href="http://www.nlpbliss.com/what-is-nlp/" target="_blank">What is NLP?</a></li>
+<li><a href="http://www.nlpbliss.com/how-it-works/" target="_blank">How it Works</a></li>
+<li><a href="http://www.nlpbliss.com/faq/" target="_blank">FAQ</a></li>
 </ul>
 
 

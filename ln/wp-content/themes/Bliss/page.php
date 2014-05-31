@@ -17,6 +17,8 @@
 get_header(); ?>
 	
 <body class="bg">
+  <?php include_once("analyticstracking.php") ?>
+
 			<?php while ( have_posts() ) : the_post(); ?>
 				<?php get_template_part( 'content', 'page' ); ?>
 

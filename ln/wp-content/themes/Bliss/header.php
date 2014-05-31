@@ -36,7 +36,7 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/classie.js"></script> 
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.sticky-kit.js"></script>   
-    
+
     
     
     
@@ -50,7 +50,7 @@
 </ul>
 
 </div><!-- mdl -->
-<div class="tollfree"><h3><span>Book a Session</span>Call:  +91 9884 235 428</h3></div>
+<div class="tollfree"><h3><span>Talk to Expert </span>Call:  +91 9884 235 428</h3></div>
 
 </div><!-- container -->
 </header>
