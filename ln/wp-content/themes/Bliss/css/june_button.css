@@ -1,0 +1,567 @@
+@font-face {
+
+    font-family: 'icomoon';
+
+    src:url('../fonts/button/icomoon.eot');
+
+    src:url('../fonts/button/icomoon.eot?#iefix') format('embedded-opentype'),
+
+    url('../fonts/button/icomoon.woff') format('woff'),
+
+    url('../fonts/button/icomoon.ttf') format('truetype'),
+
+    url('../fonts/button/icomoon.svg#icomoon') format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+/* General button style (reset) */
+
+.btn-landing, .btn-long {
+
+    border: none;
+
+    font-family: inherit;
+
+    font-size: inherit;
+
+    color: inherit;
+
+    background: none;
+
+    cursor: pointer;
+
+    padding: 14px 20px;
+
+    display: inline-block;
+
+    margin:0;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+    font-weight: 400;
+
+    outline: none;
+
+    position: relative;
+
+    -webkit-transition: all 0.3s;
+
+    -moz-transition: all 0.3s;
+
+    transition: all 0.3s;
+
+    float:right;
+
+    
+
+}
+
+
+
+.btn-long{float:none; margin:0 auto; display:block; padding:16px 40px;}
+
+
+
+.btn-landing:after, .btn-long:after {
+
+    content: '';
+
+    position: absolute;
+
+    z-index: -1;
+
+    -webkit-transition: all 0.3s;
+
+    -moz-transition: all 0.3s;
+
+    transition: all 0.3s;
+
+}
+
+
+
+
+
+/* Pseudo elements for icons */
+
+.btn-landing:before,
+
+.btn-b:before,
+
+.icon-heart:after,
+
+.icon-star:after,
+
+.icon-plus:after,
+
+.icon-file:before {
+
+    font-family: 'icomoon';
+
+    speak: none;
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    font-variant: normal;
+
+    text-transform: none;
+
+    line-height: 1;
+
+    position: relative;
+
+    -webkit-font-smoothing: antialiased;
+
+}
+
+
+
+.icon-arrow-right:before {
+
+    content: "\e003";
+
+}
+
+
+
+.icon-arrow-left:before {
+
+    content: "\e00d";
+
+}
+
+
+
+
+
+
+
+/* Button 4 */
+
+.btn-4 {
+
+    border-radius: 4px;
+
+    color: #fff;
+
+    overflow: hidden;
+
+    background:#f78f1e;
+
+}
+
+
+
+.btn-4:active {
+
+    color: #17954c;
+
+}
+
+
+
+.btn-4:hover {
+
+    background: #fdb813;
+
+    padding-right:40px;
+
+    
+
+}
+
+
+
+.btn-4:before {
+
+    position: absolute;
+
+    height: 100%;
+
+    font-size: 125%;
+
+    line-height: 2.3;
+
+    color: #fff;
+
+    -webkit-transition: all 0.3s;
+
+    -moz-transition: all 0.3s;
+
+    transition: all 0.3s;
+
+}
+
+
+
+.btn-4:active:before {
+
+    color: #17954c;
+
+}
+
+
+
+
+
+/* Button 4c */
+
+.btn-4c:before {
+
+    left: 70%;
+
+    opacity: 0;
+
+    top: 0;
+
+}
+
+
+
+.btn-4c:hover:before {
+
+    left: 88%;
+
+    opacity: 1;
+
+}
+
+
+
+/* Button 4d */
+
+.btn-4d:before {
+
+    left: 30%;
+
+    opacity: 0;
+
+    top: 0;
+
+}
+
+
+
+.btn-4d:hover:before {
+
+    left: 2%;
+
+    opacity: 1;
+
+}
+
+
+
+
+
+/*form*/
+
+/* Demo 2 */
+
+
+
+.form-2 {
+
+    /* Size and position */
+
+    width: 100%;
+
+    margin: 0px auto 0px;
+
+    padding: 15px 15px 5px;
+
+    position: relative;
+
+
+
+    /* Styles */
+
+    background: #fff;
+
+    border-radius: 4px;
+
+    color: #7e7975;
+
+    /*box-shadow:
+
+        0 2px 2px rgba(0,0,0,0.2),        
+
+        0 1px 5px rgba(0,0,0,0.2);*/
+
+    /*border:1px solid rgba(0,0,0,0.1);*/
+
+    max-width:300px;
+
+    overflow:hidden;
+
+    float:right;
+
+}
+
+
+
+.form-2 h1 {
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    color: #bdb5aa;
+
+    padding-bottom: 8px;
+
+    border-bottom: 1px solid #EBE6E2;
+
+}
+
+
+
+.form-2 h1 .log-in,
+
+.form-2 h1 .sign-up {
+
+    display: inline-block;
+
+    text-transform: uppercase;
+
+}
+
+
+
+.form-2 h1 .log-in {
+
+    color: #6c6763;
+
+    padding-right: 2px;
+
+}
+
+
+
+.form-2 h1 .log-in span{color:#F16172;}
+
+
+
+.form-2 h1 .sign-up {
+
+    color: #ffb347;
+
+    padding-left: 2px;
+
+}
+
+
+
+.form-2 .float {
+
+    width: 100%;
+
+    float: left;
+
+    padding-top: 0px;
+
+    border-top: 1px solid rgba(255,255,255,1);
+
+    margin-bottom:15px;
+
+    margin-top:0;
+
+}
+
+
+
+.form-2 .float:first-of-type {
+
+    padding-right: 5px;
+
+}
+
+
+
+.form-2 .float:last-of-type {
+
+    padding-left: 5px;
+
+}
+
+
+
+.form-2 label {
+
+    display: block;
+
+    padding: 0 0 2px 2px;
+
+    text-transform: uppercase;
+
+    font-weight: 400;
+
+    font-size: 11px;
+
+}
+
+
+
+.form-2 label i {
+
+    margin-right: 5px; /* Gap between icon and text */
+
+    display: inline-block;
+
+    width: 10px;
+
+}
+
+
+
+.form-2 input[type=text],
+
+.form-2 input[type=email],
+
+.form-2 textarea{
+
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+
+    font-size: 13px;
+
+    font-weight: 400;
+
+    display: block;
+
+    width: 100%;
+
+    padding: 8px;
+
+    margin-bottom: 0;
+
+    border: 1px solid #ebe6e2;
+
+    border-radius: 3px;
+
+    -webkit-transition: all 0.3s ease-out;
+
+    -moz-transition: all 0.3s ease-out;
+
+    -ms-transition: all 0.3s ease-out;
+
+    -o-transition: all 0.3s ease-out;
+
+    transition: all 0.3s ease-out;
+
+}
+
+
+
+.form-2 input[type=text]:hover,
+
+.form-2 input[type=email]:hover,
+
+.form-2 textarea:hover {
+
+    border-color: #CCC;
+
+}
+
+
+
+.form-2 label:hover ~ input {
+
+    border-color: #CCC;
+
+}
+
+
+
+.form-2 input[type=text]:focus,
+
+.form-2 input[type=email]:focus,
+
+.form-2 textarea:focus {
+
+    border-color: #BBB;
+
+    outline: none; /* Remove Chrome's outline */
+
+}
+
+
+
+.form-2 input[type=submit] {
+
+    /* Size and position */
+
+    width: 40%;
+
+    height: 34px;
+
+    float: left;
+
+    position: relative;
+
+
+
+    /* Styles */
+
+    border-radius: 3px;
+
+    cursor: pointer;
+
+
+
+    /* Font styles */
+
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+
+    font-size: 14px;
+
+    line-height: 34px; /* Same as height */
+
+    text-align: center;
+
+    font-weight: bold;
+
+}
+
+
+
+.form-2 input[type=submit] {
+
+    margin-left: 1%;
+
+    background: #2872A3; /* Fallback */
+
+    color: #fff;
+
+    border:none;
+
+    text-transform:uppercase;
+
+}
+
+
+
+.form-2 input[type=submit]:hover{
+
+}
+
+
+
+.form-2 input[type=submit]:active{
+
+    top: 1px;
+
+}
+
+.fl_box-desirechange{
+width: 100% !important;
+padding:0 !important;
+}

@@ -63,75 +63,48 @@ get_header(); ?>
 				  <div class="left-column clearfix">
        
 				  <div style="text-align: justify;">
-				  <h2>Broken heart - Troubled Past? Broken Relationships? Struggling life with Unhappiness at home and work? 
+				  <h2>Broken heart - Troubled Past? Broken Relationships? Struggling life with Unhappiness at home and work? &nbsp;</h2>				  </div>
 
-				  &nbsp;</h2>
 
-				  <span style="font-size: 14px;">People have a choice. They can stay stuck in misery and guilt with the same situation giving all kinds of excuses as to helpless and stuck they are,&nbsp;</span></h2>
-				  </div>
-				  <div>
-				  &nbsp;</div>
-				  <div>
-				  <span style="font-size:14px;">OR&nbsp;</span></div>
-				  <div>
-				  &nbsp;</div>
-				  <div>
-				  <span style="font-size:14px;">You can Heal your Life and Live your Life with Freedom. Get over Bad memories. Teach your Brain how to make you happy&hellip; and Live peacefully.</span></div>
-				  <div>
-				  &nbsp;</div>
-				  <div>
-				  <span style="font-size:14px;">How much do you want Peace of mind, happiness and freedom, now and for the rest of your life?&nbsp;</span></div>
-				  <div>
-				  &nbsp;</div>
-				  <div>
-				  <span style="font-size:14px;">One of the Greatest challenges as Human beings in our journey of Life is Relationships - with your boss, colleagues, husband/wife, brother(s)/sister(s), in-laws, parents, friends&hellip; Each relationship is unique and every bond is different.&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <span style="font-size:14px;">You may have some troubled relationships now or some bad incidents, memories from the past&hellip;&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <span style="font-size:14px;">Until now, there has been NO solution so you have been stuck.&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <h3><span >Now - you CAN get over anyone and anything in 45 minutes.&nbsp;</span></h3></div>
-																										       <div>
-																										       <span style="font-size:14px;">Yes, in 45 minutes. There are Experts who can Teach your Brain on your wish, to &nbsp;re-code those bad memories and forget them. These Experts can Install useful behaviors and teach your brain how to Forget the bad memories and help you Live your Life now, every moment, happily.&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <span style="font-size:14px;">There&#39;s superior technology today. Time is changing.&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <span style="font-size:14px;">You don&#39;t have to stay stuck anymore. Wake uP now because you have the opportunity to Actually really Begin to Live the Life you want.... You may not yet know how... But the very best of Neuro Linguistic Programming techniques are now here in India. NLP Bliss Practitioners are Experts at Healing Broken Hearts, boosting confidence, helping you get into your peak performance, live your life to the fullest by understanding complex patterns of the human brain and how we function. They are experts at helping you Transform in one session.&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
+				  <p>People have a choice. They can stay stuck in misery and guilt with the same situation giving all kinds of excuses as to helpless and stuck they are, <br>
+ 
+OR <br>
+ 
+You can Heal your Life and Live your Life with Freedom. Get over Bad memories. Teach your Brain how to make you happy… and Live peacefully.<br>
+ 
+  How much do you want Peace of mind, happiness and freedom, now and for the rest of your life? <br><br>
+ 
+  One of the Greatest challenges as Human beings in our journey of Life is Relationships - with your boss, colleagues, husband/wife, brother(s)/sister(s), in-laws, parents, friends… Each relationship is unique and every bond is different. <br><br>
+ 
+       You may have some troubled relationships now or some bad incidents, memories from the past…<br><br> 
+ 
+       Until now, there has been NO solution so you have been stuck.  </p><br>
+	
+																										       <h3><span >Now - you CAN get over anyone and anything in 45 minutes.&nbsp;</span></h3>
+																			<p>Yes, in 45 minutes. There are Experts who can Teach your Brain on your wish, to &nbsp;re-code those bad memories and forget them. These Experts can Install useful behaviors and teach your brain how to Forget the bad memories and help you Live your Life now, every moment, happily.&nbsp;</p>
+																										       <p>There&#39;s superior technology today. Time is changing.&nbsp;</p>
+																																												       <p>You don&#39;t have to stay stuck anymore. Wake uP now because you have the opportunity to Actually really Begin to Live the Life you want.... You may not yet know how... But the very best of Neuro Linguistic Programming techniques are now here in India. NLP Bliss Practitioners are Experts at Healing Broken Hearts, boosting confidence, helping you get into your peak performance, live your life to the fullest by understanding complex patterns of the human brain and how we function. They are experts at helping you Transform in one session.</p>
+																																													       <div>
 																										       <span><h3>You can Give 45 minutes of your Life for your Peace of mind, for lifelong transformation, can&#39;t you?</h3></div>
-																										       <div>
-																										       &nbsp;</div>
-																										       <div>
-																										       <span style="font-size:14px;">What if - you come to NLP Bliss, and whatever your troubled memories were, bad incidents, traumatic past, What if - You get over all this now, in 45 minutes... And for the rest of your life, these incidents don&#39;t ever bother you?</span></div>
-																										       <div>
-																										       <span style="font-size:14px;">&nbsp;What if - Your Life changes so well that you can suddenly handle everything around you with more courage, confidence, happiness and excellence?&nbsp;</span></div>
-																										       <div>
-																										       &nbsp;</div>
+
+<p>What if - you come to NLP Bliss, and whatever your troubled memories were, bad incidents, traumatic past, What if - You get over all this now, in 45 minutes... And for the rest of your life, these incidents don&#39;t ever bother you?</p>
+																										       <p>&nbsp;What if - Your Life changes so well that you can suddenly handle everything around you with more courage, confidence, happiness and excellence?&nbsp;</p>
 																										       <div>
 																										       <h3>						  Thousands of people have already gotten rid of their bad memories. </h3>
-																										       <span style="font-size:18px;">How soon are you going to Give yourself a fair chance?</span></div>
-																															     <div>
-																															     &nbsp;</div>
-																															     <div>
-																															     <span style="font-size:14px;">Book your NLP Bliss session now.&nbsp;</span></div>
-																															     <div>
-																															     <span style="font-size:14px;">Experience Transformation. Live the Life you want.&nbsp;</span></div>
-																															     <div>
-																															     &nbsp;</div>
-																															     <div>
-																															     &nbsp;</div>
+																		
+
+
+<p> <h3>How soon are you going to Give yourself a fair chance?</h3>
+ 
+Book your NLP Bliss session now. 
+Experience Transformation. Live the Life you want.   </p>
+
+</div>
+
+
+
+
+
 <div class="qt"><img src="http://www.nlpbliss.com/wp-content/uploads/2014/05/icon_22004.png" alt="icon_22004"/></div>
 
 <blockquote>
@@ -147,12 +120,12 @@ get_header(); ?>
 																																				   <div>
  <p align="center"><h3><p align="center"><span >Give yourself a Chance to live Happily Now&nbsp;</span> <br>					   Book an NLP Bliss session&nbsp;</h3></p>																														   <p align="center"><img src="http://www.nlpbliss.com/wp-content/uploads/2014/05/trusted-2.png"   align="middle" height="150" width="150" alt="badge3" /></p></div>
 
-																																				   <div>  <span style="font-size:14px;">Shruti had to make a decision. Either be stuck and depressed and compromise. OR&nbsp;</span></div>
-																																				   <div>																		   <span style="font-size:14px;">Give a Chance to Fix the Mess in her own life by handing it to the Experts at NLP Bliss.&nbsp;</span></div>
-																																				   <div>
-																																				   <span style="font-size:14px;">She just went ahead and booked her appointment. A coordinator got in touch with her and arranged a session with Trusted, Reliable NLP Bliss Practitioner. The session lasted 45 minutes. Advance patterning was performed. And after 45 minutes, when she thought about the same bad memories of her past, she could no longer be depressed. Instead, she started to look at her life ahead, as the NLP Bliss Practitioner installed wonderful patterning to help her Live life with full.</span></div>
-																																				   <div>
-																																				   <span style="font-size:14px;">What has happened in the past, has happened. And you know it is of no use to keep thinking about it now and certainly not worth living in fear or depression.</span></div>											   <div> &nbsp;</div>																   <div> <span > <h2>Back then, you had No choice. But Now, YOU DO!</h2></div>						   <div>&nbsp;</div>
+																																				   <div> <p>Shruti had to make a decision. Either be stuck and depressed and compromise. OR 
+Give a Chance to Fix the Mess in her own life by handing it to the Experts at NLP Bliss. .
+She just went ahead and booked her appointment. A coordinator got in touch with her and arranged a session with Trusted, Reliable NLP Bliss Practitioner. The session lasted 45 minutes. Advance patterning was performed. And after 45 minutes, when she thought about the same bad memories of her past, she could no longer be depressed. Instead, she started to look at her life ahead, as the NLP Bliss Practitioner installed wonderful patterning to help her Live life with full.
+
+<br>					What has happened in the past, has happened. And you know it is of no use to keep thinking about it now and certainly not worth living in fear or depression.</p></div>
+																		<div> <span > <h2>Back then, you had No choice. But Now, YOU DO!</h2></div>						   <div>&nbsp;</div>
 																																				   <div>
 																																				   <span style="font-size:14px;">Free Yourself from Any troublesome memories. Get Over Anyone and Anything in one NLP Bliss session. 45 minutes. That&rsquo;s it. And you have a Life Full of Freedom and Peace after that. How much do you care now to Get the Life you want?</span></div>
 																																																																	  <div>
